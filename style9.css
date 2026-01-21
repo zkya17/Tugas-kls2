@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.navigasi {
+    background-color: #333;
+    padding: 10px;
+}
+
+.navigasi h2 {
+    color: white;
+}
+
+.navigasi a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    margin-right: 5px;
+    background-color: #555;
+    border-radius: 4px;
+}
+
+.navigasi a:hover {
+    background-color: #2196f3;
+}
+
+.main {
+    padding: 20px;
+}
+
+.main img {
+    display: block;
+    margin-bottom: 15px;
+    width: 200px;
+}
+
+.main p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.main span {
+    color: crimson;
+    font-weight: bold;
+}
+
+.copyright {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
